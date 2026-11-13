@@ -1,0 +1,6 @@
+{
+  "appId": "com.masteraidroid.pro",
+  "appName": "Master AI Droid Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
